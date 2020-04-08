@@ -1,0 +1,20 @@
+git clone https://github.com/Siddhesh-Bhande/Date-Science.git
+
+to add file from remote:
+
+git pull -v
+
+
+to add file from local to remote:
+
+git pull -v 
+
+git status
+
+git add .
+
+git commit -m "commit message"
+
+git push -v
+
+git status
